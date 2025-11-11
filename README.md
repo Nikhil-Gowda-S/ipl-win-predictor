@@ -4,6 +4,9 @@
 The IPL Win Predictor is a machine learning–based web application that predicts the probability of a team winning an IPL match based on current match data such as score, overs, wickets, and more.
 
 It helps cricket fans and analysts visualize live win probabilities using data science and predictive modeling.
+🔗 **Live Demo:** [Click here to try it out](https://ipl-win-predictor-29mupp5zqqfpxqgv9akjn7.streamlit.app/)
+
+
 
 🚀 Features
 
